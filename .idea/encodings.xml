@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/emcorp/studio/spkmotor/Adapter/KerusakanAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/emcorp/studio/spkmotor/Adapter/ListKerusakanAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/emcorp/studio/spkmotor/Adapter/ListPenyebabAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/emcorp/studio/spkmotor/Adapter/PenyebabAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/row_list.xml" charset="windows-1252" />
+  </component>
+</project>
